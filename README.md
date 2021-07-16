@@ -5,7 +5,7 @@ showing how to use Git and Github together.
 
 ## Introduction
 
-This is example is to show different parts
+This example is to show different parts
 of the Git respository and various commands
 using a web project.
 
@@ -23,3 +23,5 @@ file system
 
 
 ## How To Contribute
+
+How to contribute... fill this section
